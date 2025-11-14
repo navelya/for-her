@@ -170,6 +170,12 @@
     }
   ],
   "createdAt": 1763160661722,
-  "updatedAt": 1763160661722,
-  "published": false
+  "updatedAt": 1763160703920,
+  "published": false,
+  "deployment": {
+    "repoName": "for-her",
+    "repoUrl": "https://github.com/navelya/for-her",
+    "deployedUrl": "https://navelya.github.io/for-her/",
+    "lastDeployed": 1763160703920
+  }
 }
