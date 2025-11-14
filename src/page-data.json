@@ -1,0 +1,175 @@
+{
+  "id": "1763160661722-9u8kjki",
+  "name": "for her",
+  "clientEmail": "Navelya.10@gmail.com",
+  "primaryColor": "#6366F1",
+  "accentColor": "#8B5CF6",
+  "backgroundColor": "#FFFFFF",
+  "textColor": "#1F2937",
+  "headline": "Transform Your Workflow",
+  "subheadline": "The modern platform built for teams that move fast",
+  "description": "Streamline your operations with our powerful, intuitive tools designed for the modern workplace.",
+  "ctaText": "Start Free Trial",
+  "formFields": [
+    {
+      "id": "name",
+      "label": "Full Name",
+      "type": "text",
+      "placeholder": "John Doe",
+      "required": true
+    },
+    {
+      "id": "email",
+      "label": "Email Address",
+      "type": "email",
+      "placeholder": "john@example.com",
+      "required": true
+    },
+    {
+      "id": "phone",
+      "label": "Phone Number",
+      "type": "phone",
+      "placeholder": "+1 (555) 000-0000",
+      "required": false
+    },
+    {
+      "id": "message",
+      "label": "Message",
+      "type": "textarea",
+      "placeholder": "Tell us more about your needs...",
+      "required": false
+    }
+  ],
+  "sections": [
+    {
+      "type": "hero",
+      "content": {
+        "headline": "Transform Your Workflow",
+        "subheadline": "The modern platform built for teams that move fast",
+        "description": "Streamline your operations with our powerful, intuitive tools designed for the modern workplace.",
+        "ctaText": "Start Free Trial"
+      },
+      "styles": {
+        "backgroundType": "gradient",
+        "gradientFrom": "#6366F1",
+        "gradientTo": "#8B5CF6",
+        "gradientDirection": "to-br",
+        "textColor": "#000000",
+        "padding": "xlarge",
+        "scrollEffect": "fade"
+      },
+      "buttonAction": {
+        "type": "scroll",
+        "target": "#form"
+      },
+      "id": "1763160661722-hut4uua",
+      "order": 0
+    },
+    {
+      "type": "features",
+      "content": {
+        "title": "Everything You Need to Succeed",
+        "description": "Powerful features designed to help you work smarter, not harder",
+        "items": [
+          {
+            "icon": "star",
+            "title": "Lightning Fast",
+            "description": "Built for speed with cutting-edge technology that keeps you moving"
+          },
+          {
+            "icon": "star",
+            "title": "Secure & Reliable",
+            "description": "Enterprise-grade security to keep your data safe and protected"
+          },
+          {
+            "icon": "star",
+            "title": "Easy Integration",
+            "description": "Connect with all your favorite tools and services seamlessly"
+          }
+        ]
+      },
+      "styles": {
+        "backgroundColor": "#F9FAFB",
+        "backgroundType": "solid",
+        "textColor": "#1F2937",
+        "padding": "large",
+        "scrollEffect": "slide"
+      },
+      "id": "1763160661722-arrmxfa",
+      "order": 1
+    },
+    {
+      "type": "testimonials",
+      "content": {
+        "title": "Loved by Thousands",
+        "items": [
+          {
+            "name": "Sarah Johnson",
+            "role": "CEO, TechStart",
+            "quote": "This platform completely transformed how we work. Our productivity increased by 40% in the first month!",
+            "rating": 5,
+            "avatar": ""
+          },
+          {
+            "name": "Michael Chen",
+            "role": "Product Manager, InnovateCo",
+            "quote": "The best investment we made this year. Intuitive, powerful, and our team adopted it instantly.",
+            "rating": 5,
+            "avatar": ""
+          }
+        ]
+      },
+      "styles": {
+        "backgroundColor": "#FFFFFF",
+        "backgroundType": "solid",
+        "textColor": "#1F2937",
+        "padding": "large",
+        "scrollEffect": "zoom"
+      },
+      "id": "1763160661722-b5dgzx9",
+      "order": 2
+    },
+    {
+      "type": "cta",
+      "content": {
+        "headline": "Ready to Get Started?",
+        "description": "Join thousands of teams already using our platform",
+        "buttonText": "Start Your Free Trial"
+      },
+      "styles": {
+        "backgroundType": "gradient",
+        "gradientFrom": "#1F2937",
+        "gradientTo": "#374151",
+        "gradientDirection": "to-r",
+        "textColor": "#FFFFFF",
+        "padding": "large",
+        "scrollEffect": "fade"
+      },
+      "buttonAction": {
+        "type": "scroll",
+        "target": "#form"
+      },
+      "id": "1763160661722-4o8n5ck",
+      "order": 3
+    },
+    {
+      "type": "form",
+      "content": {
+        "title": "Start Your Journey",
+        "description": "Fill out the form below and we'll get you started right away"
+      },
+      "styles": {
+        "backgroundColor": "#F9FAFB",
+        "backgroundType": "solid",
+        "textColor": "#1F2937",
+        "padding": "xlarge",
+        "scrollEffect": "slide"
+      },
+      "id": "1763160661722-tpdqajs",
+      "order": 4
+    }
+  ],
+  "createdAt": 1763160661722,
+  "updatedAt": 1763160661722,
+  "published": false
+}
